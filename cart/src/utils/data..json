@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Reebok Shoes",
+        "id": 1,
+        "price": 600,
+        "categories": [ "shoes", "branded", "men" ],
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Reebok Shirt",
+        "id": 2,
+        "price": 1200,
+        "categories": [ "shirt", "branded", "men" ],
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Reebok Pants",
+        "id": 3,
+        "price": 900,
+        "categories": [ "pants", "branded", "men" ],
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Nike Shoes",
+        "id": 5,
+        "price": 800,
+        "categories": [ "shoes", "branded", "men" ],
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Reebok Jacket",
+        "id": 6,
+        "price": 1600,
+        "categories": [ "jacket", "branded", "men" ],
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Reebok Shoes - Women",
+        "id": 7,
+        "price": 600,
+        "categories": [ "shoes", "branded", "women" ],
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Reebok Pants - Women",
+        "id": 8,
+        "price": 600,
+        "categories": [ "pants", "women" ],
+        "img": "https://via.placeholder.com/150"
+    }
+]
